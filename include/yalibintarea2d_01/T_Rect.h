@@ -20,10 +20,11 @@ You should have received a copy of the GNU Lesser General Public License along
 #ifndef T_YALIBINTAREA2D_01_RECT_H
 #define T_YALIBINTAREA2D_01_RECT_H
 
-namespace integers_measured_area_operation_yalibintarea2d_01 {
-
 #include "T_Index.h"
 #include "T_Size.h"
+
+namespace integers_measured_area_operation_yalibintarea2d_01 {
+
 
 template <typename IDX, typename SIDX, typename SIZE>
 class T_Rect
